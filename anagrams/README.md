@@ -1,4 +1,4 @@
-# README – Exercice 2 : Anagrams avec Hadoop
+# Exercice 2 : Anagrams avec Hadoop
 
 ## Objectifs
 - Détecter les mots qui sont des **anagrammes** dans une liste de mots anglais.  

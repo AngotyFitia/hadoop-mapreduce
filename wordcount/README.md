@@ -1,4 +1,4 @@
-# README – Exercice 1 : WordCount avec Hadoop
+# Exercice 1 : WordCount avec Hadoop
 
 ## Objectifs
 - Compiler un projet Java Maven pour générer un `.jar` contenant l’algorithme WordCount.  
