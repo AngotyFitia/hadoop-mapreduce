@@ -90,7 +90,7 @@ act      cat, act
 
 ---
 ## Tests et résultats:
-![Vous pouvez voir ici les résultats des tests de l'application: ](tests/3.png) 
+- ![Vous pouvez voir ici les résultats des tests de l'application: ](tests/3.png) 
 
 ---
 

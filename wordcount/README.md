@@ -87,8 +87,8 @@ hadoop fs -cat results/*
 
 ---
 ## Tests et résultats:
-![Vous pouvez voir ici les résultats des tests de l'application: ](tests/1.png) 
-![Vous pouvez voir ici les résultats des tests de l'application: ](tests/2.png) 
+- ![Vous pouvez voir ici les résultats des tests de l'application: ](tests/1.png) 
+- ![Vous pouvez voir ici les résultats des tests de l'application: ](tests/2.png) 
 
 ---
 ## Conclusion
