@@ -86,6 +86,12 @@ Europe  987654.32
 
 ---
 
+## Tests et résultats:
+![Vous pouvez voir ici les résultats des tests de l'application: ](tests/4.png) 
+![Vous pouvez voir ici les résultats des tests de l'application: ](tests/5.png) 
+
+---
+
 ## Conclusion
 Ce projet démontre :
 - La lecture et le traitement d’un fichier CSV avec Hadoop MapReduce.

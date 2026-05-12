@@ -89,6 +89,10 @@ act      cat, act
 ```
 
 ---
+## Tests et résultats:
+![Vous pouvez voir ici les résultats des tests de l'application: ](tests/3.png) 
+
+---
 
 ## Explication des commandes
 - `cp ... .` → copie le fichier depuis `/vagrant/tp/1/` vers ton home sur la VM.  

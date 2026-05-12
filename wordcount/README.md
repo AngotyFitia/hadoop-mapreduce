@@ -86,7 +86,11 @@ hadoop fs -cat results/*
 - `hadoop fs -cat` → lit le contenu d’un fichier dans HDFS.  
 
 ---
+## Tests et résultats:
+![Vous pouvez voir ici les résultats des tests de l'application: ](tests/1.png) 
+![Vous pouvez voir ici les résultats des tests de l'application: ](tests/2.png) 
 
+---
 ## Conclusion
 Durant l’exercice 1, nous avons :
 - Travaillé **localement sur le PC** pour compiler et transférer le `.jar`.  
