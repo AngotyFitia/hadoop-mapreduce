@@ -1,0 +1,42 @@
+# === Build & Maven ===
+target/
+*.jar
+*.war
+*.ear
+*.class
+*.log
+
+# === IDEs ===
+# IntelliJ
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# NetBeans
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# VS Code
+.vscode/
+
+# === OS files ===
+.DS_Store
+Thumbs.db
+
+# === Tests & Coverage ===
+*.tsbuildinfo
+.vite/
+coverage/
+
+# === Env files (ne jamais pousser les secrets) ===
+.env
+.env.*
